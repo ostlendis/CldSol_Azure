@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.1.1">
   <diagram name="Page-1" id="NK-S2P9GYHOxCctCQomx">
-    <mxGraphModel dx="893" dy="595" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="578" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s-0nqKiSK2anA67SekLO-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="284" y="143" width="458" height="500" as="geometry" />
+          <mxGeometry x="284" y="143" width="458" height="392" as="geometry" />
         </mxCell>
         <mxCell id="hTZG5fUvFqCNWCh-4mJr-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
           <mxGeometry x="32" y="322.5" width="47.5" height="50" as="geometry" />
@@ -58,10 +58,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="328" y="190" width="149" height="114" as="geometry" />
+          <mxGeometry x="335" y="190" width="149" height="114" as="geometry" />
         </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="531" y="190" width="144" height="115" as="geometry" />
+          <mxGeometry x="539" y="190" width="144" height="115" as="geometry" />
         </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="s-0nqKiSK2anA67SekLO-25" target="s-0nqKiSK2anA67SekLO-17" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-46" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="341.5" y="380" width="149" height="120" as="geometry" />
+          <mxGeometry x="334.5" y="380" width="149" height="120" as="geometry" />
         </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.475;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;entryPerimeter=0;" parent="1" source="s-0nqKiSK2anA67SekLO-47" target="s-0nqKiSK2anA67SekLO-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -200,16 +200,14 @@
             <mxPoint x="1" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XeQIit-pbo7Jsxiz2iTG-1" value="Azure OpenAI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" vertex="1" parent="1">
-          <mxGeometry x="378" y="533" width="68" height="68" as="geometry" />
+        <mxCell id="TAJ_1Z9At3ulb45q1NKn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XeQIit-pbo7Jsxiz2iTG-1" target="s-0nqKiSK2anA67SekLO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XeQIit-pbo7Jsxiz2iTG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="s-0nqKiSK2anA67SekLO-7" target="XeQIit-pbo7Jsxiz2iTG-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="189" y="567" />
-              <mxPoint x="314" y="567" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="XeQIit-pbo7Jsxiz2iTG-1" value="Azure OpenAI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" parent="1" vertex="1">
+          <mxGeometry x="155" y="635" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="TAJ_1Z9At3ulb45q1NKn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="s-0nqKiSK2anA67SekLO-21" target="s-0nqKiSK2anA67SekLO-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
