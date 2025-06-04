@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="27.1.1">
   <diagram name="Page-1" id="NK-S2P9GYHOxCctCQomx">
-    <mxGraphModel dx="573" dy="373" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XeQIit-pbo7Jsxiz2iTG-1" value="Azure OpenAI" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/ai_machine_learning/Azure_OpenAI.svg;" parent="1" vertex="1">
-          <mxGeometry x="155" y="635" width="68" height="68" as="geometry" />
+          <mxGeometry x="361.5" y="533" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="TAJ_1Z9At3ulb45q1NKn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
