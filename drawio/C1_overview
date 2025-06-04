@@ -10,9 +10,6 @@
         <mxCell id="TAJ_1Z9At3ulb45q1NKn-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="502" y="191" width="208" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="hTZG5fUvFqCNWCh-4mJr-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
-          <mxGeometry x="32" y="322.5" width="47.5" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="s-0nqKiSK2anA67SekLO-6" value="&lt;b&gt;App Host Project&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="129" y="77" width="772" height="34" as="geometry" />
         </mxCell>
